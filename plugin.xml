@@ -6,6 +6,7 @@
     <name>SoftKeyboard</name>
     <description>Controls Soft Keyboard on touch devices (so far only Android).</description>
     <license>MIT</license>
+    <currentVersion>1.0.2</currentVersion>
 
     <engines>
         <engine name="cordova" version=">=3.0.0" />
